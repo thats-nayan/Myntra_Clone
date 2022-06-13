@@ -1,0 +1,24 @@
+.body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 1000;
+    /* font-size: 20px; */
+}
+.navbar img{
+    height: 55px;
+}
+ul li{
+    padding: 12px;
+}
+.container img{
+    margin: 100px 80px;
+}
+.link-bar
+{
+    color: white;
+}
+.link-bar:hover
+{
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+}

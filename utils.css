@@ -1,0 +1,26 @@
+
+.white
+{
+    background-color: #fff;
+}   
+.border-prop{
+    border: 2px solid black;
+}
+.width{
+    width: 23vw;
+}
+.small{
+    width: 24px;
+}
+.margin-2{
+    margin: 107px 0px;
+}
+.margin-set{
+    margin: 37px 0px;
+}
+.set-color{
+    color: white;
+}
+.margin-bottom0{
+    margin-bottom: 0px;
+}
